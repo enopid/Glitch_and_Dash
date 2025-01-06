@@ -1,0 +1,10 @@
+map=[[516, 295, 4, 0], [224, 250, 210, 471], [407, 567, 492, 188], [900, 228, 148, 135], [1124, 421, 220, 334], [1127, 0, 254, 46]]
+falling_block=[]
+spike_block=[]
+moving_block=[]
+glitch_crystal=[]
+non_glitch_block=[]
+start_point=[227, 91, 11, 11]
+end_point=[381, 82, 11, 11]
+tv_pos=[]
+glitched_lock=False
