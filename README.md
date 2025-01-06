@@ -24,10 +24,9 @@
 - 텍스쳐가 없는 듯한 블록은 Glitch로 통과할 수 있습니다. 
 
 ## 데모 영상
-- https://github.com/enopid/Glitch_and_Dash/releases/download/glitch_and_dash_v1.3/Glitch.and.Dash.ver.1.3.zip
 
-[https://www.youtube.com/watch?v=jUoGzTEvR8w](https://youtu.be/HLT3YZslTeo)
+- [https://www.youtube.com/watch?v=jUoGzTEvR8w](https://youtu.be/HLT3YZslTeo)
 
 ## 실행 파일
 
-- 링크
+- https://github.com/enopid/Glitch_and_Dash/releases/download/glitch_and_dash_v1.3/Glitch.and.Dash.ver.1.3.zip
